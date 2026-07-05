@@ -1,9 +1,9 @@
 # DAA College File Submission
 
-**Name:** [Your Name Here]  
-**ID:** [Your ID Here]  
-**Semester:** [Your Semester Here]  
-**Year:** [Your Year Here]  
+**Name:** Suvendra Das
+**ID:** B125131  
+**Semester:** 3rd semester  
+**Year:** 2029  
 
 ## Description
 
